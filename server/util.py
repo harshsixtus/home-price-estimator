@@ -42,7 +42,7 @@ if __name__ =='__main__':
     print(get_location_names())
     print(get_estimated_price('1st Phase JP Nagar',1000,3,3))
     print(get_estimated_price('1st Phase JP Nagar', 1000, 2, 2))
-    print(get_estimated_price('Ejipura', 1000, 2, 2))cmd_copy()
+    print(get_estimated_price('Ejipura', 1000, 2, 2))
 
 
 
